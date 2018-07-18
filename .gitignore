@@ -1,0 +1,19 @@
+# Python Files
+*.egg-info/
+.eggs/
+build/
+dist/
+__pycache__/
+*.pyc
+generated/
+
+# System Files
+.DS_Store
+
+# Text Editor Files
+.vscode/
+
+# Test files
+.coverage*
+.cache/
+.pytest_cache/
